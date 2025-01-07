@@ -1,0 +1,10 @@
+@import './base.css';
+
+#app {
+  margin: 0;
+  padding: 0;
+}
+
+.background-header {
+  background: linear-gradient(#64e6e2, #85dae3);
+}
